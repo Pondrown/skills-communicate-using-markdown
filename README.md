@@ -1,7 +1,3 @@
-# My Project Title
-
-This is an introduction to my project.
-
 <header>
 
 <!--
