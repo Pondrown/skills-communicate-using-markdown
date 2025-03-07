@@ -1,5 +1,7 @@
-# Welcome to the project
-### We will now begin
+# My Project Title
+
+This is an introduction to my project.
+
 <header>
 
 <!--
